@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasheedali B&label=Profile%20views&color=0e75b6&style=flat" alt="rasheedreshy2@gmail.com" /> </p>
 
 - 🌱 I’m currently working as a **Flutter Developer**
 
